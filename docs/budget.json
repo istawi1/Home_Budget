@@ -1,0 +1,11 @@
+{
+  "categories": [
+    { "id": "c_food", "name": "Food" },
+    { "id": "c_transport", "name": "Transport" },
+    { "id": "c_bills", "name": "Bills" },
+    { "id": "c_fun", "name": "Entertainment" },
+    { "id": "c_health", "name": "Health" },
+    { "id": "c_other", "name": "Other" }
+  ],
+  "transactions": []
+}
